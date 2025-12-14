@@ -6,7 +6,6 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/shrey/OneDrive/Documents/GitHub/Loft/RenderWiz_D1_AptLoft/Content/Maps/Loft_01.umap",
-				"C:/Users/shrey/OneDrive/Documents/GitHub/Loft/RenderWiz_D1_AptLoft/Content/Materials/MI_ConcreteWall_WA_01.uasset",
 				"C:/Users/shrey/OneDrive/Documents/GitHub/Loft/RenderWiz_D1_AptLoft/Content/Materials/Textures/M_Manhattan_HDR_01_Mat.uasset",
 				"C:/Users/shrey/OneDrive/Documents/GitHub/Loft/RenderWiz_D1_AptLoft/Content/Materials/My_BrickWall_WA.uasset",
 				"C:/Users/shrey/OneDrive/Documents/GitHub/Loft/RenderWiz_D1_AptLoft/Content/Materials/My_ConcreteWall_WA_01.uasset",
@@ -15,7 +14,14 @@
 				"C:/Users/shrey/OneDrive/Documents/GitHub/Loft/RenderWiz_D1_AptLoft/Content/Materials/Textures/Shuttered_Concrete_Wall_uirleimn_2K_Normal.uasset",
 				"C:/Users/shrey/OneDrive/Documents/GitHub/Loft/RenderWiz_D1_AptLoft/Content/Materials/Textures/Shuttered_Concrete_Wall_uirleimn_2K_Roughness.uasset",
 				"C:/Users/shrey/OneDrive/Documents/GitHub/Loft/RenderWiz_D1_AptLoft/Content/Meshes/SM_Cube_2x1_Bevelled.uasset",
-				"C:/Users/shrey/OneDrive/Documents/GitHub/Loft/RenderWiz_D1_AptLoft/Content/Materials/Textures/T_Manhattan_HDR_01.uasset"
+				"C:/Users/shrey/OneDrive/Documents/GitHub/Loft/RenderWiz_D1_AptLoft/Content/Materials/Textures/T_Manhattan_HDR_01.uasset",
+				"C:/Users/shrey/OneDrive/Documents/GitHub/Loft/RenderWiz_D1_AptLoft/Content/AIUE_vol1_06/Maps/AIUE_vol1_06.umap",
+				"C:/Users/shrey/OneDrive/Documents/GitHub/Loft/RenderWiz_D1_AptLoft/Content/Meshes/SM_Window_03.uasset",
+				"C:/Users/shrey/OneDrive/Documents/GitHub/Loft/RenderWiz_D1_AptLoft/Content/Meshes/SM_Window_02.uasset",
+				"C:/Users/shrey/OneDrive/Documents/GitHub/Loft/RenderWiz_D1_AptLoft/Content/Meshes/SM_Window_01.uasset",
+				"C:/Users/shrey/OneDrive/Documents/GitHub/Loft/RenderWiz_D1_AptLoft/Content/Materials/Textures/M_Backdrop.uasset",
+				"C:/Users/shrey/OneDrive/Documents/GitHub/Loft/RenderWiz_D1_AptLoft/Content/Materials/Textures/T_Backdrop.uasset",
+				"C:/Users/shrey/OneDrive/Documents/GitHub/Loft/RenderWiz_D1_AptLoft/Content/Materials/MI_ConcreteWall_WA_01.uasset"
 			]
 		}
 	]
